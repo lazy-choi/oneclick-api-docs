@@ -1,6 +1,6 @@
 # Table of contents
 
-* [개요](README.md)
+* [개요 정보](README.md)
 
 ## API
 
